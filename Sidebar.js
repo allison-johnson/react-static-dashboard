@@ -2,8 +2,13 @@ import React from 'react'
 
 export default function Sidebar() {
     return (
-        <div className="sidebar">
-            <h2>Sidebar</h2>
-        </div>
+            <div className="sidebar">
+                <p>Dashboard</p>
+                <p>Widget</p>
+                <p>Reviews</p>
+                <p>Customers</p>
+                <p>Online Analysis</p>
+                <p>Settings</p>
+            </div>
     )
 }

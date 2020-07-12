@@ -28,6 +28,9 @@ code {
   grid-column: 1 / span 1;
   border: 1px black;
   background: gray;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
 }
 
 .reviews {
